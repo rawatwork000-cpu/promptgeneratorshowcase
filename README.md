@@ -12,7 +12,7 @@ The full workflow usually takes about 3-4 minutes.
 
 Upload all images in the order you want them registered. Drag them to rearrange the order if needed, then click **Upload & Lock References**.
 
-![Uploaded reference images](2.png)
+image/1.png
 
 ### 2. Tell the tool what to use
 
