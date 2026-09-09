@@ -26,7 +26,7 @@ For each reference, enter:
 
 You don't need to fill every optional field. Use **Add Another Object From This Reference** when one image contains more than one required object. Then click **Build Scene Specification**.
 
-![Object details](4.png)
+![Object details]image/1.png)
 
 ### 3. Check the scene
 
