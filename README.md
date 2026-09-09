@@ -13,6 +13,7 @@ The full workflow usually takes about 3-4 minutes.
 Upload all images in the order you want them registered. Drag them to rearrange the order if needed, then click **Upload & Lock References**.
 
 ![](image/1.png)
+![](image/2.png)
 
 ### 2. Tell the tool what to use
 
@@ -26,13 +27,15 @@ For each reference, enter:
 
 You don't need to fill every optional field. Use **Add Another Object From This Reference** when one image contains more than one required object. Then click **Build Scene Specification**.
 
-![Object details]image/1.png)
+![](image/3.png)
+![](image/4.png)
+![](image/5.png)
 
 ### 3. Check the scene
 
 Review the object list and placement details. If something is wrong, go back and correct it. If it looks right, click **Generate Diagram Options**.
 
-![Scene review](6.png)
+![](image/6.png)
 
 ### 4. Choose a layout diagram
 
@@ -40,19 +43,26 @@ Select the diagram that best matches your layout. **Combined Precision Map** is 
 
 Use **Edit Layout** if the position of any object needs to change, then click **Continue**.
 
-![Selected layout diagram](10.png)
+![](image/7.png)
+![](image/8.png)
+![](image/9.png)
+![](image/10.png)
+![](image/11.png)
 
 ### 5. Choose the output size
 
 Pick the aspect ratio you need. Use **16:9** for a standard wide image, or choose another format for your project. Then click **Continue to Final Prompt**.
 
-![Output size selection](13.png)
+![](image/12.png)
+![](image/13.png)
 
 ### 6. Generate and copy the prompt
 
 Click **Generate Final Prompt**. When it is ready, use **Copy Prompt** or **Download .txt**.
 
-![Generated prompt](15.png)
+![](image/14.png)
+![](image/15.png)
+![](image/16.png)
 
 ### 7. Generate the image in ChatGPT
 
@@ -63,9 +73,10 @@ Open ChatGPT Images and add:
 
 Select **GPT-5.6 Sol**, set the thinking effort to **High**, and send the request.
 
-![Select GPT-5.6 Sol](19.png)
-
-![Set thinking effort to High](18.png)
+![](image/17.png)
+![](image/18.png)
+![](image/19.png)
+![](image/20.png)
 
 ## Quick tips
 
