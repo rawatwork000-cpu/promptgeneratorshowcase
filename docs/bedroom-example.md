@@ -6,7 +6,7 @@ This case study combines six references into one wide bedroom concept. It demons
 
 | Reference | Required content |
 | --- | --- |
-| ![Sculptural back wall](../image/case-study/back-wall.jpg) | Complete sculptural back-wall feature |
+| ![Sculptural back wall](/case-study/back-wall.jpg) | Complete sculptural back-wall feature |
 | ![Upholstered bed](../image/case-study/bed.jpg) | Bed, bedding, pillows, and throw only |
 | ![Panelled left wall](../image/case-study/left-wall.jpg) | Complete panelled left wall with both sconces; central artwork excluded |
 | ![Organic mirror](../image/case-study/mirror.jpg) | Illuminated organic mirror with its integrated shelves |
