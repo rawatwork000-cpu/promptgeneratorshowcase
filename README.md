@@ -80,10 +80,25 @@ Select **GPT-5.6 Sol**, set the thinking effort to **High**, and send the reques
 ![](image/19.png)
 ![](image/20.png)
 
+### 8. If you want each object as a separate image 
+
+Upload the final generated image to ChatGPT and use this prompt:
+
+> Give me each main object from this interior separately as a transparent PNG, one object per file.
+
+Download the final room image and all the individual transparent PNG files.
+
+### 9. Create the presentation in MNML
+
+Open MNML and upload the final room image with the separate transparent PNG objects. Use this prompt:
+
+> Create a clean, premium interior-design presentation board using the final room image as the main visual and the separate object PNGs as supporting elements. Keep the layout minimal, preserve the original colors and materials, and use short labels only.
+
+Arrange the generated presentation if needed, then export or share the final visual concept.
+
 ## Quick tips
 
 - Use clear reference images with one main object or feature.
 - Keep object names simple, such as `bed`, `mirror`, or `left wall`.
 - Be specific about placement when the layout matters.
 - If the result is wrong, fix the object details or diagram instead of rewriting the final prompt by hand.
-"# promptgeneratorshowcase" 
