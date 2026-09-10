@@ -7,11 +7,11 @@ This case study combines six references into one wide bedroom concept. It demons
 | Reference | Required content |
 | --- | --- |
 | ![Sculptural back wall](case-study/back-wall.jpg) | Complete sculptural back-wall feature |
-| ![Upholstered bed](../image/case-study/bed.jpg) | Bed, bedding, pillows, and throw only |
-| ![Panelled left wall](../image/case-study/left-wall.jpg) | Complete panelled left wall with both sconces; central artwork excluded |
-| ![Organic mirror](../image/case-study/mirror.jpg) | Illuminated organic mirror with its integrated shelves |
-| ![Illuminated right wall](../image/case-study/right-wall.jpg) | Complete illuminated niche installation and lower planter/fountain base |
-| ![Mauve sofa](../image/case-study/sofa.jpg) | Sofa only |
+| ![Upholstered bed](case-study/bed.jpg) | Bed, bedding, pillows, and throw only |
+| ![Panelled left wall](case-study/left-wall.jpg) | Complete panelled left wall with both sconces; central artwork excluded |
+| ![Organic mirror](case-study/mirror.jpg) | Illuminated organic mirror with its integrated shelves |
+| ![Illuminated right wall](case-study/right-wall.jpg) | Complete illuminated niche installation and lower planter/fountain base |
+| ![Mauve sofa](case-study/sofa.jpg) | Sofa only |
 
 ## Overall scene request
 
@@ -93,12 +93,12 @@ Use `16:9` for the wide composition. The preferred size is `1920x1080`.
 
 ## Generated result
 
-![Bedroom generated from the six references](../image/case-study/chatgpt-output.png)
+![Bedroom generated from the six references](case-study/chatgpt-output.png)
 
 The main layout is preserved: the bed anchors the center, both side walls remain visible, the sofa occupies the left side, and the illuminated installation occupies the right side. Small decorative details may vary between generations.
 
 ## Refined result
 
-![Bedroom refined in mnml.ai](../image/case-study/mnml-output.png)
+![Bedroom refined in mnml.ai](case-study/mnml-output.png)
 
 The mnml.ai pass improves surface finish and visual consistency. It should be treated as a refinement step; compare it with the first output to catch any changed furniture detail or wall ornament before use.
