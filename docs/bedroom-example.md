@@ -6,12 +6,12 @@ This case study combines six references into one wide bedroom concept. It demons
 
 | Reference | Required content |
 | --- | --- |
-| ![Sculptural back wall](case-study/back-wall.jpg) | Complete sculptural back-wall feature |
-| ![Upholstered bed](case-study/bed.jpg) | Bed, bedding, pillows, and throw only |
-| ![Panelled left wall](case-study/left-wall.jpg) | Complete panelled left wall with both sconces; central artwork excluded |
-| ![Organic mirror](case-study/mirror.jpg) | Illuminated organic mirror with its integrated shelves |
-| ![Illuminated right wall](case-study/right-wall.jpg) | Complete illuminated niche installation and lower planter/fountain base |
-| ![Mauve sofa](case-study/sofa.jpg) | Sofa only |
+| <img src="case-study/back-wall.jpg" width="180" alt="Sculptural back wall"> | Complete sculptural back-wall feature |
+| <img src="case-study/bed.jpg" width="180" alt="Upholstered bed"> | Bed, bedding, pillows, and throw only |
+| <img src="case-study/left-wall.jpg" width="180" alt="Panelled left wall"> | Complete panelled left wall with both sconces; central artwork excluded |
+| <img src="case-study/mirror.jpg" width="180" alt="Organic mirror"> | Illuminated organic mirror with its integrated shelves |
+| <img src="case-study/right-wall.jpg" width="180" alt="Illuminated right wall"> | Complete illuminated niche installation and lower planter/fountain base |
+| <img src="case-study/sofa.jpg" width="180" alt="Mauve sofa"> | Sofa only |
 
 ## Overall scene request
 
